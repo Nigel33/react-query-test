@@ -7,13 +7,18 @@
     },
     {
       "id": 2,
-      "name": "Superman",
+      "name": "Supaerman",
       "alterEgo": "Clark Kent"
     },
     {
       "id": 3,
-      "name": "Wonder Woman",
+      "name": "Wondaaaaer Woman",
       "alterEgo": "Princess Diana"
-    }
+    },
+    {
+      "id": 4,
+      "name": "Wondassaaaer Woman",
+      "alterEgo": "Princess Diana"
+    }      
   ]
 }
