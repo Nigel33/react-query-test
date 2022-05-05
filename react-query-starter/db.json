@@ -20,5 +20,74 @@
       "name": "Wondassaaaer Woman",
       "alterEgo": "Princess Diana"
     }      
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler"
+    },
+    {
+      "id": 2,
+      "name":"John"
+    }
+  ],
+  "users": [
+    {
+      "email": "test@test",
+      "channelId": "code"
+    }
+  ],
+  "channels": [
+    {
+      "id": "code",
+      "content": "test"
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7, 
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "pink"
+    },
+    {
+      "id": 9,
+      "label": "greenwhite"
+    },
+    {
+      "id": 10,
+      "label": "purple"
+    },
+    {
+      "id": 11,
+      "label": "scarlet"
+    }
+
   ]
 }
